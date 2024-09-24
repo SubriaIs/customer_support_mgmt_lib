@@ -1,4 +1,4 @@
-# customer_support_mgmt_lib
+# Customer Support Management Library 
 This is a Java-based customer support management library designed for database interactions and data transfer.
 
 ## Usage
